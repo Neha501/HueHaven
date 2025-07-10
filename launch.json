@@ -1,0 +1,61 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "FavoritesViewer",
+      "request": "launch",
+      "mainClass": "FavoritesViewer",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "Color_Picker",
+      "request": "launch",
+      "mainClass": "Color_Picker",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "Loginpage",
+      "request": "launch",
+      "mainClass": "Loginpage",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "colorPickerpage1",
+      "request": "launch",
+      "mainClass": "colorPickerpage1",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "PaletteHome",
+      "request": "launch",
+      "mainClass": "PaletteHome",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "colorPickerpage",
+      "request": "launch",
+      "mainClass": "colorPickerpage",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "Loginpage1",
+      "request": "launch",
+      "mainClass": "Loginpage1",
+      "projectName": "javafinalproject_f089947e"
+    },
+    {
+      "type": "java",
+      "name": "Run SuggestedPaletteViewer",
+      "request": "launch",
+      "mainClass": "SuggestedPaletteViewer",
+      "vmArgs": "-cp .;D:\\javafinalproject\\mysql-connector-j-9.3.0.jar"
+    }
+  ]
+}
